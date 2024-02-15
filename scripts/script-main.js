@@ -13,7 +13,7 @@ setTimeout(() => {
 },1000);
 
 /* REPRODUCTOR */
-const sound = new Audio('../images/jacarandá.wav');
+const sound = new Audio('../images/ojoscafes.wav');
 
 const play = document.querySelector('.reproductor__play');
 const pausa = document.querySelector('.reproductor__pause');
